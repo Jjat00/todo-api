@@ -15,7 +15,10 @@ Before running the project, make sure you have the following installed:
 
 Clone this repository to your local machine:
 
-
+```bash
+git clone git@github.com:Jjat00/todo-api.git
+cd todo-api
+````
 
 ### 2. Create a Virtual Environment
 It's recommended to use a virtual environment to manage your project's dependencies. To create and activate a virtual environment, run:
