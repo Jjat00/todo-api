@@ -1,4 +1,4 @@
-# Django API Project
+# To Do API
 
 This is a simple Django-based API for managing tasks. It provides basic CRUD (Create, Read, Update, Delete) functionality for tasks. This README provides instructions for setting up, running, and testing the project.
 
@@ -6,8 +6,8 @@ This is a simple Django-based API for managing tasks. It provides basic CRUD (Cr
 
 Before running the project, make sure you have the following installed:
 
-- Python 3.13.1
-- pip (Python package installer)
+- Python 3.x
+- pip 
 
 ## Setup
 
